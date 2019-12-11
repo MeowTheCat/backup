@@ -1,0 +1,2 @@
+dfs: set to visit before call recursion
+bsf: set to visit before add to queue
